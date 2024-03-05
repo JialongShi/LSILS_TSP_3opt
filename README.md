@@ -40,9 +40,13 @@ Then an executable named 'lsils_tsp_3opt' will appear in the directory.
 g++  -o  lsils_tsp_3opt  -O2  main.cpp  tspProblem.cpp  tspSolution.cpp  solver.cpp
 ```
 
-
-
 ## How to use it
+
+Before running, please create a subfolder named 'results'.
+
+```
+mkdir results
+```
 
 You can run the program by
 
