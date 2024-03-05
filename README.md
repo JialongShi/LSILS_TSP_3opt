@@ -60,7 +60,7 @@ The above command runs ILS, LSILS with constant lambda 0.06, LSILS with dynamic 
 
 ## Outputs
 
-The outputs are located in the 'results' folder. The 'log_*.txt' files contain crucial information regarding the execution process, while the 'fit_eval_*.txt' files record the fitness (first column) versus the function evaluation (second column).
+The outputs are located in the 'results' folder. The 'log_....txt' files contain crucial information regarding the execution process, while the 'fit_eval_....txt' files record the fitness (first column) versus the function evaluation (second column).
 
 ```
 
