@@ -1,12 +1,12 @@
 # Landscape_Smoothing_ILS_TSP
-# Landscape Smoothing Iiterated Local Search (LSILS) for solving the TSP
+# Landscape Smoothing Iterated Local Search (LSILS) for solving the TSP
 # Jialong Shi (jialong.shi@xjtu.edu.cn)
 
 
 
 ## Introduction
 
-In this program, Landscape Smoothing Iiterated Local Search (LSILS) is implemented to optimize the Traveling Salesman Problem (TSP). 
+In this program, Landscape Smoothing Iterated Local Search (LSILS) is implemented to optimize the Traveling Salesman Problem (TSP). 
 
 The code is distributed for research use. The author reserves all rights to the code.
 
