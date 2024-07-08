@@ -10,7 +10,11 @@ In this program, Landscape Smoothing Iterated Local Search (LSILS) is implemente
 
 <img src="https://github.com/JialongShi/LSILS_TSP_3opt/blob/main/originalTSP_dim8.gif" width="210px">
 
-![img](https://github.com/JialongShi/LSILS_TSP_3opt/blob/main/convexTSP_dim8.gif)
+
+<div style="position: relative; width: 170px; height: 89px;"> 
+    <img src="https://github.com/JialongShi/LSILS_TSP_3opt/blob/main/convexTSP_dim8.gif" width="170" height="89" alt=""> 
+    <span style="position: absolute; bottom: 0; left: 0;">添加文字...添加文字...添加文字...</span> 
+</div>
 
 The code is distributed for research use. The author reserves all rights to the code.
 
