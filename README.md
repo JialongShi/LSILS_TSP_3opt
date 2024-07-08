@@ -15,8 +15,8 @@ Here is the visualization a 8-city random TSP's landscape:
 
 
 <div style="position: relative; width: 170px; height: 89px;"> 
-    <img src="https://github.com/JialongShi/LSILS_TSP_3opt/blob/main/convexTSP_dim8.gif" width="170" height="89" alt=""> 
-    <span style="position: absolute; bottom: 0; left: 0;">添加文字...添加文字...添加文字...</span> 
+    <img src="https://github.com/JialongShi/LSILS_TSP_3opt/blob/main/convexTSP_dim8.gif" width="170" height="170" alt=""> 
+    <span style="position: absolute; bottom: -30; left: -80;"> 8-city unimodal TSP's landscape: </span> 
 </div>
 
 The code is distributed for research use. The author reserves all rights to the code.
