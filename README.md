@@ -6,19 +6,16 @@
 
 ## Introduction
 
-In this program, Landscape Smoothing Iterated Local Search (LSILS) is implemented to optimize the Traveling Salesman Problem (TSP). 
+In this program, Landscape Smoothing Iterated Local Search (LSILS) is implemented to optimize the Traveling Salesman Problem (TSP). LSILS uses a toy TSP instance with a unimodal landscape to smooth the origianl TSP's landscape.
 
-LSILS uses a toy TSP instance with a unimodal landscape to smooth the origianl TSP's landscape.
-
+<!---
 Here is the visualization a 8-city random TSP's landscape: 
 <img src="https://github.com/JialongShi/LSILS_TSP_3opt/blob/main/2D_originalTSP_dim8.gif" width="210px"><img src="https://github.com/JialongShi/LSILS_TSP_3opt/blob/main/originalTSP_dim8.gif" width="210px">
-
-
 <div style="position: relative; width: 170px; height: 89px;"> 
     <img src="https://github.com/JialongShi/LSILS_TSP_3opt/blob/main/convexTSP_dim8.gif" width="170" height="170" alt=""> 
     <span style="position: absolute; bottom: -30; left: -80;"> 8-city unimodal TSP's landscape: </span> 
 </div>
-
+-->
 The code is distributed for research use. The author reserves all rights to the code.
 
 Relevant literature:
